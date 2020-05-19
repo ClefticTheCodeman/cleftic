@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+#container {
+    width: 940px;
+    margin: 0 auto;
+    background:#cec;
+}
+
+.header{
+    text-align: center;
+}
+
+h2{
+text-align: center;
+}
+
+.menu{
+    background: #efe;
+}
+.menu-list li{
+    display: inline-block;
+    padding: 10px;
+    list-style: none; 
+    text-align: center;
+}
+
+.content{
+    width: 800px;    
+    padding: 10px 20px;
+    
+}
+
+.inner-content-1{
+    width: 400px;
+    float: left;
+    display: inline-block;
+    margin 0px 20px;
+    padding: 10px;
+ 
+}
+
+.inner-content-2{
+    margin: 0 auto;
+    
+}
+
+
+
